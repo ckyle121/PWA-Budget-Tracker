@@ -5,7 +5,7 @@ Taking a pre-existing budget tracking application, and converting it to a PWA fo
 This is a simple budget tracker application that did not have a deployed URL. After recieving the application, I turned this into a Progressive Web Application (PWA), and created offline functionality and data persistence.
 
 ## Deployed Application
-
+https://budget-tracker-860.herokuapp.com/
 
 ## Technologies Used 
 * IndexedDB
